@@ -17,7 +17,7 @@
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  */
 
-/**
+/** //////////////hejsansdjaxsdhjasdj///////////
  * \file    htdocs/accountancy/index.php
  * \ingroup Accountancy (Double entries)
  * \brief   Home accounting module
